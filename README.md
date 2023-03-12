@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&size=30&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+I+am+Rituresh+Rai.;I+am+an+ever-learning+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG]](https://git.io/typing-svg)
 
 ![giphy](https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif)
 
@@ -43,6 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rituresh143&" alt="rituresh143" /></p>
 
+[![Himanshi's github stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
 
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
