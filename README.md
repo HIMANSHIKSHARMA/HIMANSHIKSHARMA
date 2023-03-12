@@ -9,9 +9,9 @@
 
 ![Hnet com-image](https://user-images.githubusercontent.com/76609761/139380132-8c773695-55c5-44cb-9987-181ea8d89927.gif)
 
-<!-- 
+
 <h1 align="center">Hi 👋, I'm Rituresh RAI</h1>
-<h3 align="center">A passionate WEB developer AND COMPETITIVE PROGRAMMER</h3> -->
+<h3 align="center">A passionate WEB developer AND COMPETITIVE PROGRAMMER</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rituresh143" alt="rituresh143" /></a> </p>
 
