@@ -1,6 +1,4 @@
-(https://git.io/typing-svg)
-
-<p align="center"><img src="https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif" width="800" height="300"  /></p>
 
 
 
