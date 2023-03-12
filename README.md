@@ -46,3 +46,5 @@
 
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/Rituresh143/count.svg)
+
+[![An image of @himanshiksharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshiksharma)](https://holopin.io/@himanshiksharma)
