@@ -6,13 +6,12 @@
 
 - 👨‍💻 I’m currently learning **WEB-DEVELOPMENT,DATA STRUCTURES**
 
-- 📫 How to reach me **himanshi.k.sharma112@gmail.com**
+- 📫 You can shoot me an email at **himanshi.k.sharma112@gmail.com**
 
 - ⚡ Fun fact **Most of the time I talk to Myself...**
 
 
 [![Himanshi's github stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA)](https://github.com/HIMANSHIKSHARMA/github-readme-stats)
-
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
 
