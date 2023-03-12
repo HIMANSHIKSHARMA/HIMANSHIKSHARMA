@@ -4,11 +4,11 @@
 
   ### :woman_technologist: &nbsp;About Me :
 
-- 👨‍💻 I’m currently learning **WEB-DEVELOPMENT,DATA STRUCTURES**
+- 👨‍💻 I’m currently learning **WEB-DEVELOPMENT & DATA STRUCTURES**
 
 - 📫 You can shoot me an email at **himanshi.k.sharma112@gmail.com**
 
-- ⚡ Fun fact **Most of the time I talk to Myself...**
+- ⚡ Fun fact **Youtube music is my fav app...**
 
 
 ### 🔥 &nbsp; My Stats :
