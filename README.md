@@ -3,21 +3,16 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
-- 🌱 I’m currently learning **WEB-DEVELOPMENT,DATA STRUCTURES**
+- 👨‍💻 I’m currently learning **WEB-DEVELOPMENT,DATA STRUCTURES**
 
-- 👨‍💻 All of my projects are available at [https://infallible-yonath-5de199.netlify.app/](https://infallible-yonath-5de199.netlify.app/)
+- 📫 How to reach me **himanshi.k.sharma112@gmail.com**
 
-- 📫 How to reach me **riturajrai@gmail.com**
-
-- ⚡ Fun fact **Some Time I talk to Myself...**
+- ⚡ Fun fact **Most of the time I talk to Myself...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rituresh-kumar-rai-766b5b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rituresh-kumar-rai-766b5b1b8/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rituresh123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rituresh123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rituresh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rituresh123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritu440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritu440" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riturajrai440/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/riturajrai440/practice/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/himanshiksharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshiksharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/HIMANSHIKSHARMA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HIMANSHIKSHARMA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rituresh143&" alt="rituresh143" /></p>
 
-[![Himanshi's github stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Himanshi's github stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA)](https://github.com/HIMANSHIKSHARMA/github-readme-stats)
 
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
