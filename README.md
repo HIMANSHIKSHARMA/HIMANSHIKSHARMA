@@ -13,7 +13,7 @@
  
  
 
-### 🔥 &nbsp; My Stats :
+### :stats &nbsp; My Stats :
 
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
