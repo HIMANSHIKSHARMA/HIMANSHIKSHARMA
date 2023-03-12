@@ -1,13 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif" width="800" height="500"  /></p>
 
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-
-<!-- <h1 align="center">Hi 👋, I'm Himanshi Sharma</h1>  -->
-<h3 align="center">A passionate WEB developer AND COMPETITIVE PROGRAMMER</h3>
-
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"</h1>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rituresh143" alt="rituresh143" /></a> </p>
 
 - 🌱 I’m currently learning **WEB-DEVELOPMENT,DATA STRUCTURES**
 
