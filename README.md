@@ -15,6 +15,8 @@
 
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
+<a href="http://www.github.com/HIMANSHIKSHARMA"><img src="https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HIMANSHIKSHARMA's GitHub stats" /></a>
+
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
 
