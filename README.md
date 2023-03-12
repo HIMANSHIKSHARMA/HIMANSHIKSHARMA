@@ -13,7 +13,7 @@
 
 ### 🔥 &nbsp; My Stats :
 
-![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajsinghal933&show_icons=true&bg_color=00000000)
+![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
 
 #### <h3> Visitor Count: </h3>
