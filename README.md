@@ -13,12 +13,8 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HIMANSHIKSHARMA&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHIKSHARMA&layout=compact&theme=vision-friendly-dark)](https://github.com/HIMANSHIKSHARMA/github-readme-stats)
-
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
-[![Himanshi's github stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA)](https://github.com/HIMANSHIKSHARMA/github-readme-stats)
+
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
 
