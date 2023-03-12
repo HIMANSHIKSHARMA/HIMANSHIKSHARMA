@@ -1,4 +1,5 @@
 <p align="center"><img src="https://git.io/typing-svg" width="100px"/></p>
+<p align="center">
 
 ![giphy](https://user-images.githubusercontent.com/76609761/145662148-5eb9cedd-8b9b-442f-bb9a-9359674fafc4.gif)
 
