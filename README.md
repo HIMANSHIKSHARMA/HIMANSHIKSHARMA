@@ -8,7 +8,7 @@
 
 - 📫 You can shoot me an email at **himanshi.k.sharma112@gmail.com**
 
-- ⚡ Fun fact **Youtube music is my fav app...**
+- ⚡ Fun fact **A cat spends roughly 70% of their lives sleeping....**
 
  
  
