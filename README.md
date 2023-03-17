@@ -18,7 +18,11 @@
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
 
+![Himanshi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHIKSHARMA&layout=compact&show_icons=true)
+
+
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
 
 [![An image of @himanshiksharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshiksharma)](https://holopin.io/@himanshiksharma)
+
