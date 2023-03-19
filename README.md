@@ -22,7 +22,7 @@
 
 ![Himanshi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHIKSHARMA&layout=compact&show_icons=true)
 
-[![HIMANSHI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HIMANSHIKSHARMA&theme=dracula)](https://github.com/HIMANSHIKSHARMA/github-readme-activity-graph)
+[![HIMANSHI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HIMANSHIKSHARMA&theme=react-dark)](https://github.com/HIMANSHIKSHARMA/github-readme-activity-graph)
 
 #### <h3> Visitor Count: </h3>
 ![Visitor Count](https://profile-counter.glitch.me/HIMANSHIKSHARMA/count.svg)
