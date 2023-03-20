@@ -26,9 +26,6 @@
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
 
-![Himanshi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHIKSHARMA&layout=compact&show_icons=true)
-
-
 <p align="center">
 <img src="https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.svg">
 </p>
