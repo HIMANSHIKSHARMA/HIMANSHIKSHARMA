@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI5YjVkOGViMzUyZTE3NGU5OTc4YTA5ZmMyNTZmMTc0NzNhM2ZjNCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="800" height="700" /></p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI5YjVkOGViMzUyZTE3NGU5OTc4YTA5ZmMyNTZmMTc0NzNhM2ZjNCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="800" height="800" /></p>
 
 
 <img src="https://itsvg.in/webdev.svg" width=50% height=50% align="right">
 
-<h1 align="center">Hey <img src="media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ff950c6d4tkdpa5dhayuqls13fy6cpnnj4lu5swh&rid=giphy.gif&ct=g" width="40"> !!!</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> !!!</h1>
 
 
 
