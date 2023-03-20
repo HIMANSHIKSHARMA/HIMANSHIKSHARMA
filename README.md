@@ -3,6 +3,10 @@
 
 <img src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width=50% height=50% align="right">
 
+
+
+<img src="https://itsvg.in/webdev.svg"width=50% height=50% align="right">
+
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> !!!</h1>
 
   ### :woman_technologist: &nbsp;About Me :
