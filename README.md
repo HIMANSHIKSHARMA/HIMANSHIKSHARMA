@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg width="800" height="500" /></p>
+<img src="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg" width="800" height="500" /></p>
 
 
 <img src="https://itsvg.in/webdev.svg" width=50% height=50% align="right">
