@@ -25,13 +25,10 @@
 
 ![Himanshi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHIKSHARMA&layout=compact&show_icons=true)
 
-[![HIMANSHI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HIMANSHIKSHARMA&theme=react-dark)](https://github.com/HIMANSHIKSHARMA/github-readme-activity-graph)
 
-
-
-
-![snake gif](https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.gif)
-
+<p align="center">
+<img src="https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 
 #### <h3> Visitor Count: </h3>
