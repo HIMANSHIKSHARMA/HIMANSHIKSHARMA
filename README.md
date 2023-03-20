@@ -27,7 +27,7 @@
 
 
 
-[![HIMANSHI's github contribution activity](https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.gif)
+![HIMANSHI's github contribution activity](https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.gif)
 
 
 
