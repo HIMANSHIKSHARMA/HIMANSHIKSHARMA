@@ -5,7 +5,7 @@
 
 
 
-<img src="https://itsvg.in/webdev.svg"width=50% height=50% align="right">
+<img src="https://itsvg.in/webdev.svg" width=50% height=50% align="right">
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> !!!</h1>
 
