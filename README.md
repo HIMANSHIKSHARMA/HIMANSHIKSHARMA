@@ -4,7 +4,7 @@
 
 <img src="https://itsvg.in/webdev.svg" width=50% height=50% align="right">
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> !!!</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Himanshi</h1>
 
 
 
@@ -26,9 +26,6 @@
 ![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
 
 
-<p align="center">
-<img src="https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 
 #### <h3> Visitor Count: </h3>
@@ -36,3 +33,6 @@
 
 [![An image of @himanshiksharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshiksharma)](https://holopin.io/@himanshiksharma)
 
+
+
+ media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ff950c6d4tkdpa5dhayuqls13fy6cpnnj4lu5swh&rid=giphy.gif&ct=g
