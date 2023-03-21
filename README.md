@@ -35,4 +35,8 @@
 
 
 
- media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ff950c6d4tkdpa5dhayuqls13fy6cpnnj4lu5swh&rid=giphy.gif&ct=g
+ <!--media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47ff950c6d4tkdpa5dhayuqls13fy6cpnnj4lu5swh&rid=giphy.gif&ct=g
+
+ <p align="center">
+<img src="https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.svg">
+</p> --!>
