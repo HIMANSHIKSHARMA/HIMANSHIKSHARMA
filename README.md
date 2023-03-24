@@ -23,7 +23,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HIMANSHIKSHARMA&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)
+<!--![HIMANSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIMANSHIKSHARMA&show_icons=true&bg_color=00000000)-->
 
 
 
@@ -39,4 +39,4 @@
 
  <p align="center">
 <img src="https://github.com/HIMANSHIKSHARMA/HIMANSHIKSHARMA/blob/output/github-contribution-grid-snake.svg">
-</p> --!>
+</p> -->
