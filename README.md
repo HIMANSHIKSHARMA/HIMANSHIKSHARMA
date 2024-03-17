@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m currently learning **WEB-DEVELOPMENT & DATA STRUCTURES**
 
-- 📫 You can shoot me an email at **himanshi.k.sharma112@gmail.com**
+- 📫 You can shoot me an email at **himanshiksharma@outlook.com**
 
 - ⚡ Fun fact- **A cat spends roughly 70% of their lives sleeping....**
 
